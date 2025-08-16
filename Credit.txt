@@ -1,0 +1,42 @@
+===============================
+   Credits / 致谢
+===============================
+
+【原作素材】
+- 弹幕、音乐、部分特效：来源于 东方Project 官方作品（解包）
+
+【音乐素材】
+- 道中 BGM：《东方怪奇谈》  
+  出自专辑《蓬莱人形》
+- BOSS 战 BGM：《恋色 Master Spark》  
+  出自《东方永夜抄》
+- 结局 BGM：《花如幻想一般》  
+  出自《东方花映冢》
+
+【弹幕致敬】
+- 道中最后一个怪的弹幕：  
+  致敬自 《弹幕音乐绘 ~ 基础教学篇 ~》 B-9 以及  
+  《东方星莲船》六面 Boss 符卡「大魔法『魔神复咏』」
+- Boss 的第 4 与第 5 个符卡：  
+  出自 《东方永夜抄》四面魔理沙的符卡
+
+【美术素材】
+- 部分背景、素材：AI 绘制
+- 灵梦立绘：dairi 绘制
+- 魔理沙立绘：dairi 绘制
+
+【音效素材】
+- "Copper Bell Ding 4"  
+  来自 floraphonic @ https://pixabay.com  
+- "Swipe"  
+  来自 u_xharq4usid @ https://pixabay.com
+
+【字体】
+- 中文字体：霞鹜文楷（LXGW WenKai）  
+  https://github.com/lxgw/LxgwWenKai
+
+【工具 / 插件】
+- DOTween (Demigiant)  
+  http://dotween.demigiant.com
+
+===============================
