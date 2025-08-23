@@ -4,15 +4,16 @@
 
 # 忽略整个 Assets 目录
 Assets/*
-.vs/*
+.vs/
+.vsconfig
 
 # 但保留脚本
 !Assets/Scripts/
 !Assets/Scripts/**
-
+!Assets/Scripts.meta
 # 必要的 Unity 项目文件
-Packages/**
-ProjectSettings/**
+!Packages/**
+!ProjectSettings/**
 
 # ========== Unity 常见缓存目录 ==========
 [Ll]ibrary/
