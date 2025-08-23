@@ -6,6 +6,7 @@
 Assets/*
 
 # 但保留脚本
+!Assets/Scripts/
 !Assets/Scripts/**
 
 # 必要的 Unity 项目文件

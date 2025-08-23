@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ac3936ab58c7074dbe1d4502741feb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stageData: {instanceID: 0}
+  - backgroundManager: {instanceID: 0}
+  - fogSpawner: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
