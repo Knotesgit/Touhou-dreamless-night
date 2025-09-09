@@ -41,7 +41,7 @@
 ### Credits
 - Original assets, characters, and references: ZUN / Touhou Project (Team Shanghai Alice).  
 - Tools: [DOTween](http://dotween.demigiant.com/), [LxgwWenKai Font](https://github.com/lxgw/LxgwWenKai).
-- For details, see [Credit.txt](./Credit.txt).
+- For details, see [Credits.txt](./Credits.txt).
 ---
 
 ## 中文说明
@@ -82,5 +82,5 @@
 ### 致谢
 - 原作素材、角色版权：ZUN / 东方 Project（上海爱丽丝幻乐团）  
 - 插件与工具：[DOTween](http://dotween.demigiant.com/), [霞鹜文楷字体](https://github.com/lxgw/LxgwWenKai).
-- 详见 [Credit.txt](./Credit.txt)  
+- 详见 [Credits.txt](./Credits.txt)  
 
