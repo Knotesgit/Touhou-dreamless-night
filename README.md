@@ -1,4 +1,4 @@
-# Touhou Dreamless Night / 东方梦无夜
+# Touhou Dreamless Night / 东方夜不能寐
 
 [English](#english-version) | [中文](#中文说明)
 
@@ -32,6 +32,7 @@
 <img src="Screenshots/demogif.gif" width="600"/>  
 
 [Watch stage demo on Bilibili](https://www.bilibili.com/video/BV1XTbtzpEXx/)  
+*Note: The demo video only shows the stage part; boss battles are reserved for players to experience.*  
 
 ### How to Play
 - Download the latest build from [Releases](https://github.com/Knotesgit/Touhou-dreamless-night/releases).  
@@ -39,9 +40,8 @@
 
 ### Credits
 - Original assets, characters, and references: ZUN / Touhou Project (Team Shanghai Alice).  
-- Music, sound effects, and fonts: see [Credits.txt](./Credit.txt).  
 - Tools: [DOTween](http://dotween.demigiant.com/), [LxgwWenKai Font](https://github.com/lxgw/LxgwWenKai).
-
+- For details, see [Credit.txt](./Credit.txt).
 ---
 
 ## 中文说明
@@ -74,11 +74,13 @@
 
 [道中实机演示（Bilibili）](https://www.bilibili.com/video/BV1XTbtzpEXx/)
 
+*视频仅展示道中部分，Boss 战请玩家亲自体验！* 
+
 ### 运行方式
 - 在 [Releases](https://github.com/Knotesgit/Touhou-dreamless-night/releases) 页面下载最新版本，解压后运行 Windows 可执行文件(MiniTouhouSTG.exe)。  
 
 ### 致谢
 - 原作素材、角色版权：ZUN / 东方 Project（上海爱丽丝幻乐团）  
-- 音乐、音效、字体：详见 [Credits.txt](./Credit.txt)  
-- 插件与工具：DOTween、霞鹜文楷字体  
+- 插件与工具：[DOTween](http://dotween.demigiant.com/), [霞鹜文楷字体](https://github.com/lxgw/LxgwWenKai).
+- 详见 [Credit.txt](./Credit.txt)  
 
