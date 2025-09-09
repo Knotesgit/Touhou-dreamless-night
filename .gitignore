@@ -2,10 +2,11 @@
 # Unity 项目只传代码和配置
 # ============================
 
-# 忽略整个 Assets 目录
+# 忽略整个目录
 Assets/*
 .vs/
 .vsconfig
+Screenshots
 
 # 但保留脚本
 !Assets/Scripts/
