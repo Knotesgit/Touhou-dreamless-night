@@ -1,4 +1,50 @@
 ===============================
+   Credits
+===============================
+
+【Original Assets】
+- Bullet patterns, music, and some effects:  
+  Extracted from official *Touhou Project* works
+
+【Music】
+- Stage BGM: *Eastern Strange Discourse*  
+  from the album *蓬莱人形 (Dolls in Pseudo Paradise)*
+- Boss Battle BGM: *Love-colored Master Spark*  
+  from *Touhou Imperishable Night*
+- Ending BGM: *The Flowers Remain in Fantasy*  
+  from *Touhou Phantasmagoria of Flower View*
+
+【Bullet Pattern References】
+- Final stage-enemy attack:  
+  Inspired by *Barrage Musical ~ Basic Danmaku Tutorial ~* B-9, and  
+  Stage 6 Boss Spell Card “Great Magic "Devil's Recitation"” from *Touhou UFO* (*Undefined Fantastic Object*)
+- Boss 4th & 5th Spell Cards:  
+  Taken from Marisa’s spell cards in *Touhou Imperishable Night*
+
+【Art】
+- Some backgrounds and assets: AI-generated  
+- Reimu portrait: by dairi  
+- Marisa portrait: by dairi  
+ dairi pixiv account @https://www.pixiv.net/users/4920496
+
+【Sound Effects】
+- "Copper Bell Ding 4"  
+  by floraphonic @ https://pixabay.com  
+- "Swipe"  
+  by u_xharq4usid @ https://pixabay.com  
+
+【Fonts】
+- Chinese font: LXGW WenKai  
+  https://github.com/lxgw/LxgwWenKai  
+
+【Tools / Plugins】
+- DOTween (by Demigiant)  
+  http://dotween.demigiant.com  
+
+===============================
+
+
+===============================
    Credits / 致谢
 ===============================
 
@@ -18,12 +64,13 @@
   致敬自 《弹幕音乐绘 ~ 基础教学篇 ~》 B-9 以及  
   《东方星莲船》六面 Boss 符卡「大魔法『魔神复咏』」
 - Boss 的第 4 与第 5 个符卡：  
-  出自 《东方永夜抄》四面魔理沙的符卡
+  出自 《东方永夜抄》魔理沙的符卡
 
 【美术素材】
 - 部分背景、素材：AI 绘制
 - 灵梦立绘：dairi 绘制
 - 魔理沙立绘：dairi 绘制
+ dairi pixiv个人主页 @https://www.pixiv.net/users/4920496
 
 【音效素材】
 - "Copper Bell Ding 4"  
