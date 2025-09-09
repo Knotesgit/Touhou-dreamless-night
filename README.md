@@ -20,8 +20,18 @@
 - **UI & Cutscenes**  
   Title screen animations, dialogue system (SpriteRenderer + TextMeshPro), and ending sequence.
 
-### Demo Screenshots
+### Gameplay Preview
 
+#### Title Screen
+<img src="Screenshots/title.png" width="400"/>  
+
+#### Dialogue
+<img src="Screenshots/dialogue.png" width="400"/>  
+
+#### Boss Battle
+<img src="Screenshots/demogif.gif" width="600"/>  
+
+[Watch stage demo on Bilibili](https://www.bilibili.com/video/BV1XTbtzpEXx/)  
 
 ### How to Play
 - Download the latest build from [Releases](https://github.com/Knotesgit/Touhou-dreamless-night/releases).  
@@ -50,13 +60,24 @@
 - **UI 与演出**  
   标题界面动画、对白系统（SpriteRenderer+TextMeshPro）与结局演出。  
 
-### 演示截图
+### 游戏预览
 
+#### 标题界面
+<img src="Screenshots/title.png" width="400"/>  
+
+#### 对话
+<img src="Screenshots/dialogue.png" width="400"/>  
+
+#### Boss 战
+<img src="Screenshots/demogif.gif" width="600"/>  
+
+
+[道中实机演示（Bilibili）](https://www.bilibili.com/video/BV1XTbtzpEXx/)
 
 ### 运行方式
 - 在 [Releases](https://github.com/Knotesgit/Touhou-dreamless-night/releases) 页面下载最新版本，解压后运行 Windows 可执行文件(MiniTouhouSTG.exe)。  
 
-### 🙏 致谢
+### 致谢
 - 原作素材、角色版权：ZUN / 东方 Project（上海爱丽丝幻乐团）  
 - 音乐、音效、字体：详见 [Credits.txt](./Credit.txt)  
 - 插件与工具：DOTween、霞鹜文楷字体  
