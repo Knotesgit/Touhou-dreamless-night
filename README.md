@@ -29,7 +29,7 @@
 <img src="Screenshots/dialogue.png" width="400"/>  
 
 #### Boss Battle
-<img src="Screenshots/demogif.gif" width="600"/>  
+<img src="Screenshots/bossgif.gif" width="600"/>  
 
 [Watch stage demo on Bilibili](https://www.bilibili.com/video/BV1XTbtzpEXx/)  
 *Note: The demo video only shows the stage part; boss battles are reserved for players to experience.*  
@@ -69,7 +69,7 @@
 <img src="Screenshots/dialogue.png" width="400"/>  
 
 #### Boss 战
-<img src="Screenshots/demogif.gif" width="600"/>  
+<img src="Screenshots/bossgif.gif" width="600"/>  
 
 
 [道中实机演示（Bilibili）](https://www.bilibili.com/video/BV1XTbtzpEXx/)
