@@ -1,40 +1,63 @@
+# Touhou Dreamless Night / 东方梦无夜
 
-   Credits / 致谢
-===============================
+[English](#english-version) | [中文](#中文说明)
 
-【原作素材】
-- 弹幕、音乐、部分特效：来源于 东方Project 官方作品（解包）
+---
 
-【音乐素材】
-- 道中 BGM：《东方怪奇谈》  
-  出自专辑《蓬莱人形》
-- BOSS 战 BGM：《恋色 Master Spark》  
-  出自《东方永夜抄》
-- 结局 BGM：《花如幻想一般》  
-  出自《东方花映冢》
+## English Version
 
-【弹幕致敬】
-- 道中最后一个怪的弹幕：  
-  致敬自 《弹幕音乐绘 ~ 基础教学篇 ~》 B-9 以及  
-  《东方星莲船》六面 Boss 符卡「大魔法『魔神复咏』」
-- Boss 的第 4 与第 5 个符卡：  
-  出自 《东方永夜抄》四面魔理沙的符卡
+### Introduction
+**Touhou Dreamless Night** is a Unity (C#) bullet-hell game featuring custom **Editor tooling**: a timeline-based stage editor, a **bullet-pattern** authoring tool, and a **boss-behavior** editor (movement/attacks with acceleration and smart chasing). The project emphasizes data-driven design, reusable components, and production-ready UI/FX.
 
-【美术素材】
-- 部分背景、素材：AI 绘制
-- 灵梦立绘：dairi 绘制
-- 魔理沙立绘：dairi 绘制
 
-【音效素材】
-- "Copper Bell Ding 4"  
-  来自 floraphonic @ https://pixabay.com  
-- "Swipe"  
-  来自 u_xharq4usid @ https://pixabay.com
+### Key Features
+- **Custom Stage Editor**  
+  Timeline-based event system with visualized background/audio/enemy events inside Unity Editor.
+- **Boss AI & Movement System**  
+  Configurable movement steps (Stay, ToFixedPoint, ChasePlayer, SmartChaseRandom), supporting acceleration and intelligent chasing.
+- **Bullet System**  
+  Pattern-based bullet spawning, disappearing effects, and full-screen bomb clearing mechanism.
+- **UI & Cutscenes**  
+  Title screen animations, dialogue system (SpriteRenderer + TextMeshPro), and ending sequence.
 
-【字体】
-- 中文字体：霞鹜文楷（LXGW WenKai）  
-  https://github.com/lxgw/LxgwWenKai
+### Demo Screenshots
 
-【工具 / 插件】
-- DOTween (Demigiant)  
-  http://dotween.demigiant.com
+
+### How to Play
+- Download the latest build from [Releases](https://github.com/Knotesgit/Touhou-dreamless-night/releases).  
+- Extract and run the executable on Windows(MiniTouhouSTG.exe).  
+
+### Credits
+- Original assets, characters, and references: ZUN / Touhou Project (Team Shanghai Alice).  
+- Music, sound effects, and fonts: see [Credits.txt](./Credit.txt).  
+- Tools: [DOTween](http://dotween.demigiant.com/), [LxgwWenKai Font](https://github.com/lxgw/LxgwWenKai).
+
+---
+
+## 中文说明
+
+### 简介
+**东方夜不能寐** 是一款基于 Unity (C#) 开发的弹幕射击游戏，具备自定义的 **编辑器工具**：时间轴式关卡编辑器、**弹幕模式**创作工具，以及 **Boss 行为**编辑器（移动/攻击，支持加速度与智能追踪玩家）。本项目强调 **数据驱动设计**、**可复用组件**，以及 **UI/特效**。
+
+
+### 技术亮点
+- **关卡编辑器**  
+  基于时间轴的事件系统，支持背景切换、音效播放、敌人出场的可视化编辑。  
+- **Boss 行为系统**  
+  可配置移动步骤（停留、定点移动、追踪玩家、智能追踪），支持加速度和伪随机追踪逻辑。  
+- **弹幕系统**  
+  支持自定义 Pattern，包含子弹消失特效与全屏 Bomb 清屏机制。  
+- **UI 与演出**  
+  标题界面动画、对白系统（SpriteRenderer+TextMeshPro）与结局演出。  
+
+### 演示截图
+
+
+### 运行方式
+- 在 [Releases](https://github.com/Knotesgit/Touhou-dreamless-night/releases) 页面下载最新版本，解压后运行 Windows 可执行文件(MiniTouhouSTG.exe)。  
+
+### 🙏 致谢
+- 原作素材、角色版权：ZUN / 东方 Project（上海爱丽丝幻乐团）  
+- 音乐、音效、字体：详见 [Credits.txt](./Credit.txt)  
+- 插件与工具：DOTween、霞鹜文楷字体  
+
