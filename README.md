@@ -15,8 +15,8 @@
   Timeline-based event system with visualized background/audio/enemy events inside Unity Editor.
 - **Boss AI & Movement System**  
   Configurable movement steps (Stay, ToFixedPoint, ChasePlayer, SmartChaseRandom), supporting acceleration and intelligent chasing.
-- **Bullet System**  
-  Pattern-based bullet spawning, disappearing effects, and full-screen bomb clearing mechanism.
+- **Bullet & Audio System**  
+  Pattern-based bullet spawning with pooling (no per-shot instantiation), pooled audio playback to avoid allocation spikes, timed/conditional despawn effects, and a full-screen bomb clear.
 - **UI & Cutscenes**  
   Title screen animations, dialogue system (SpriteRenderer + TextMeshPro), and ending sequence.
 
@@ -55,8 +55,8 @@
   基于时间轴的事件系统，支持背景切换、音效播放、敌人出场的可视化编辑。  
 - **Boss 行为系统**  
   可配置移动步骤（停留、定点移动、追踪玩家、智能追踪），支持加速度和伪随机追踪逻辑。  
-- **弹幕系统**  
-  支持自定义 Pattern，包含子弹消失特效与全屏 Bomb 清屏机制。  
+- **弹幕与音效系统**  
+  基于pattern的弹幕生成，使用对象池（避免每次发射都实例化），音效播放同样采用对象池以减少分配开销，支持定时/条件消失效果，并实现全屏 Bomb 清除机制。
 - **UI 与演出**  
   标题界面动画、对白系统（SpriteRenderer+TextMeshPro）与结局演出。  
 
